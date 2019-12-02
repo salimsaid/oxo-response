@@ -1,0 +1,13 @@
+{
+    "name": "salim/oxo-response",
+    "description": "Clean and beautiful Api endpoints formatting for yots",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "salimsaid2",
+            "email": "salim@oxoafrica.co.tz"
+        }
+    ],
+    "require": {}
+}
