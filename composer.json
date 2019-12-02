@@ -1,6 +1,6 @@
 {
     "name": "salim/oxo-response",
-    "description": "Clean and beautiful Api endpoints formatting for yots",
+    "description": "Clean and beautiful Api endpoints formatting for your projects",
     "type": "library",
     "license": "MIT",
     "authors": [
